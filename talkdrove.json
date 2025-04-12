@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with VAJIRA-MD=, or get session id from here, https://vajira-session-1db9a0fec85f.herokuapp.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with VAJIRA-MD=,VAJIRA-MD=ReslVLpK#qXNZg8Kufcv-QQHy-GeAw9BNUs-H_6qZEpOFhcgNTsY
         "value":"",
         "required": true
         
